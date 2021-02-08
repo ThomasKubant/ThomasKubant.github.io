@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Additional header styles*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* makes links text white */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Applies styles to benefit section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -190,7 +190,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
